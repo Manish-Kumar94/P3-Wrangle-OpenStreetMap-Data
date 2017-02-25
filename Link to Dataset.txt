@@ -1,0 +1,9 @@
+City:- Mumbai,India
+
+Link:- https://s3.amazonaws.com/metro-extracts.mapzen.com/mumbai_india.osm.bz2
+
+Description:-     
+	Bombay, or Mumbai as it is now called, is the commercial capital of India, a city of entrepreneurs, concrete towers, clubs and discos, cricket, Bollywood and more. The city, a cluster of seven islands, was named by its natives after the goddess Mumbadevi.It is also home to a thriving film industry. It is seen, to the teeming masses that flock there to live and work, as a place where opportunities abound. Its inhabitants, an amalgam of great wealth and abject poverty, are swept into the endless maelstrom of activity that characterizes this city of dreams. 
+
+Reason:-    
+	I choose Mumbai dataset because this dataset is neither very small nor very big and so this dataset gives me freedom to experiment on the data. And the other reason is that Mumbai is called the commercial capital of India and a many celebrities live in mumbai so i just wanted to know about the area in mumbai and this project gave me a chance to know more about this city.
